@@ -1,4 +1,4 @@
-## Quantidade de termos de busca no Stackoverflow
+## Quantidade de usuários com atividades no Stackoverflow
 
 O Stack Exchange (https://api.stackexchange.com) é uma rede de sites de perguntas e respostas sobre uma ampla variedade de tópicos, onde as comunidades de usuários podem fazer perguntas, fornecer respostas e votar nas melhores respostas. A rede foi criada pela Stack Exchange Inc. e é conhecida principalmente pelo seu site mais famoso, o Stack Overflow, que se concentra em questões relacionadas à programação e desenvolvimento de software.
 
