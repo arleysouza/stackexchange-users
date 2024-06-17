@@ -1,0 +1,320 @@
+{
+  "items": [
+    {
+      "badge_counts": { "bronze": 16, "silver": 2, "gold": 0 },
+      "collectives": [
+        {
+          "collective": {
+            "tags": ["android", "ios"],
+            "external_links": [
+              {
+                "type": "support",
+                "link": "https://stackoverflow.com/contact?topic=15"
+              }
+            ],
+            "description": "A collective for developers who want to share their knowledge and learn more about mobile development practices and platforms",
+            "link": "/collectives/mobile-dev",
+            "name": "Mobile Development",
+            "slug": "mobile-dev"
+          },
+          "role": "member"
+        }
+      ],
+      "account_id": 32016604,
+      "is_employee": false,
+      "last_modified_date": 1718610300,
+      "last_access_date": 1718655885,
+      "reputation_change_year": 1292,
+      "reputation_change_quarter": 1292,
+      "reputation_change_month": 593,
+      "reputation_change_week": 20,
+      "reputation_change_day": 18,
+      "reputation": 1393,
+      "creation_date": 1714587002,
+      "user_type": "registered",
+      "user_id": 24823442,
+      "location": "California",
+      "website_url": "http://bixly.com/",
+      "link": "https://stackoverflow.com/users/24823442/bob-smith",
+      "profile_image": "https://i.sstatic.net/H3t3dhHO.png?s=256",
+      "display_name": "Bob Smith"
+    },
+    {
+      "badge_counts": { "bronze": 7, "silver": 2, "gold": 0 },
+      "account_id": 32071123,
+      "is_employee": false,
+      "last_modified_date": 1714892216,
+      "last_access_date": 1715115204,
+      "reputation_change_year": 712,
+      "reputation_change_quarter": 712,
+      "reputation_change_month": 30,
+      "reputation_change_week": 0,
+      "reputation_change_day": 0,
+      "reputation": 713,
+      "creation_date": 1714885564,
+      "user_type": "registered",
+      "user_id": 24874397,
+      "website_url": "",
+      "link": "https://stackoverflow.com/users/24874397/wrench",
+      "profile_image": "https://www.gravatar.com/avatar/73fe1410e6a839dcfdc6e06ca206636a?s=256&d=identicon&r=PG&f=y&so-version=2",
+      "display_name": "Wrench"
+    },
+    {
+      "badge_counts": { "bronze": 6, "silver": 0, "gold": 0 },
+      "collectives": [
+        {
+          "collective": {
+            "tags": [
+              "word2vec",
+              "stanford-nlp",
+              "gensim",
+              "bert-language-model",
+              "tf-idf",
+              "huggingface-transformers",
+              "nlp-question-answering",
+              "spacy",
+              "named-entity-recognition",
+              "nlp",
+              "nltk",
+              "topic-modeling",
+              "sentiment-analysis",
+              "word-embedding",
+              "spacy-3",
+              "opennlp"
+            ],
+            "external_links": [
+              {
+                "type": "support",
+                "link": "https://stackoverflow.com/contact?topic=15"
+              }
+            ],
+            "description": "A collective focused on NLP (natural language processing), the transformation or extraction of useful information from natural language data.",
+            "link": "/collectives/nlp",
+            "name": "NLP",
+            "slug": "nlp"
+          },
+          "role": "member"
+        },
+        {
+          "collective": {
+            "tags": [
+              "r-caret",
+              "shiny-server",
+              "tibble",
+              "r-raster",
+              "r-package",
+              "lubridate",
+              "r",
+              "tidyverse",
+              "zoo",
+              "dplyr",
+              "ggplot2",
+              "quantmod",
+              "tidyr",
+              "rvest",
+              "readr",
+              "stringr",
+              "shiny",
+              "rlang",
+              "shinyapps",
+              "plyr",
+              "dtplyr",
+              "data.table",
+              "forcats",
+              "purrr",
+              "shinydashboard",
+              "rstudio",
+              "knitr"
+            ],
+            "external_links": [
+              {
+                "type": "support",
+                "link": "https://stackoverflow.com/contact?topic=15"
+              }
+            ],
+            "description": "A collective where data scientists and AI researchers gather to find, share, and learn about R and other subtags like knitr and dplyr.",
+            "link": "/collectives/r-language",
+            "name": "R Language",
+            "slug": "r-language"
+          },
+          "role": "member"
+        }
+      ],
+      "account_id": 32600107,
+      "is_employee": false,
+      "last_modified_date": 1718569500,
+      "last_access_date": 1718646081,
+      "reputation_change_year": 257,
+      "reputation_change_quarter": 257,
+      "reputation_change_month": 249,
+      "reputation_change_week": 0,
+      "reputation_change_day": 0,
+      "reputation": 358,
+      "creation_date": 1717083306,
+      "user_type": "registered",
+      "user_id": 25332792,
+      "link": "https://stackoverflow.com/users/25332792/qian-zhang",
+      "profile_image": "https://i.sstatic.net/XIvGrKYc.jpg?s=256",
+      "display_name": "Qian Zhang"
+    },
+    {
+      "badge_counts": { "bronze": 6, "silver": 0, "gold": 0 },
+      "account_id": 32519492,
+      "is_employee": false,
+      "last_modified_date": 1718188201,
+      "last_access_date": 1718617346,
+      "reputation_change_year": 245,
+      "reputation_change_quarter": 245,
+      "reputation_change_month": 145,
+      "reputation_change_week": 30,
+      "reputation_change_day": 30,
+      "reputation": 346,
+      "creation_date": 1716796610,
+      "user_type": "registered",
+      "user_id": 25265867,
+      "website_url": "",
+      "link": "https://stackoverflow.com/users/25265867/ryan",
+      "profile_image": "https://www.gravatar.com/avatar/98a354deb2aa8afe8a99120b17531b78?s=256&d=identicon&r=PG&f=y&so-version=2",
+      "display_name": "Ryan"
+    },
+    {
+      "badge_counts": { "bronze": 9, "silver": 0, "gold": 0 },
+      "account_id": 31874568,
+      "is_employee": false,
+      "last_modified_date": 1718402400,
+      "last_access_date": 1718664079,
+      "reputation_change_year": 180,
+      "reputation_change_quarter": 180,
+      "reputation_change_month": 155,
+      "reputation_change_week": 35,
+      "reputation_change_day": 35,
+      "reputation": 281,
+      "creation_date": 1715704970,
+      "user_type": "registered",
+      "user_id": 25043454,
+      "website_url": "",
+      "link": "https://stackoverflow.com/users/25043454/testing-ma-lady",
+      "profile_image": "https://i.sstatic.net/0Q2jNnCY.png?s=256",
+      "display_name": "testing-ma-lady"
+    },
+    {
+      "badge_counts": { "bronze": 5, "silver": 1, "gold": 0 },
+      "account_id": 32211810,
+      "is_employee": false,
+      "last_modified_date": 1715809137,
+      "last_access_date": 1718665141,
+      "reputation_change_year": 240,
+      "reputation_change_quarter": 240,
+      "reputation_change_month": 15,
+      "reputation_change_week": 0,
+      "reputation_change_day": 0,
+      "reputation": 241,
+      "creation_date": 1715548082,
+      "user_type": "registered",
+      "user_id": 25006694,
+      "website_url": "",
+      "link": "https://stackoverflow.com/users/25006694/gtk",
+      "profile_image": "https://www.gravatar.com/avatar/d5af326f61ec89d6b1bf50adc22cddfa?s=256&d=identicon&r=PG&f=y&so-version=2",
+      "display_name": "GTK"
+    },
+    {
+      "badge_counts": { "bronze": 9, "silver": 0, "gold": 0 },
+      "account_id": 32297057,
+      "is_employee": false,
+      "last_modified_date": 1718270400,
+      "last_access_date": 1718631125,
+      "reputation_change_year": 182,
+      "reputation_change_quarter": 182,
+      "reputation_change_month": 30,
+      "reputation_change_week": 0,
+      "reputation_change_day": 0,
+      "reputation": 183,
+      "creation_date": 1715871151,
+      "user_type": "registered",
+      "user_id": 25082295,
+      "link": "https://stackoverflow.com/users/25082295/oprex-droid",
+      "profile_image": "https://www.gravatar.com/avatar/0be7666450717aa7b41c09fa975e68c0?s=256&d=identicon&r=PG&f=y&so-version=2",
+      "display_name": "Oprex Droid"
+    },
+    {
+      "badge_counts": { "bronze": 5, "silver": 0, "gold": 0 },
+      "account_id": 32135799,
+      "is_employee": false,
+      "last_access_date": 1718483816,
+      "reputation_change_year": 172,
+      "reputation_change_quarter": 172,
+      "reputation_change_month": 20,
+      "reputation_change_week": 0,
+      "reputation_change_day": 0,
+      "reputation": 173,
+      "creation_date": 1715175139,
+      "user_type": "registered",
+      "user_id": 24935389,
+      "link": "https://stackoverflow.com/users/24935389/marco-23",
+      "profile_image": "https://www.gravatar.com/avatar/56e8f71172ef5a0053bc90a2331067b7?s=256&d=identicon&r=PG&f=y&so-version=2",
+      "display_name": "marco.23"
+    },
+    {
+      "badge_counts": { "bronze": 5, "silver": 0, "gold": 0 },
+      "collectives": [
+        {
+          "collective": {
+            "tags": ["php"],
+            "external_links": [
+              {
+                "type": "support",
+                "link": "https://stackoverflow.com/contact?topic=15"
+              }
+            ],
+            "description": "A collective where developers working with PHP can learn and connect about the open source scripting language.",
+            "link": "/collectives/php",
+            "name": "PHP",
+            "slug": "php"
+          },
+          "role": "member"
+        }
+      ],
+      "account_id": 32075358,
+      "is_employee": false,
+      "last_modified_date": 1718109300,
+      "last_access_date": 1718655846,
+      "reputation_change_year": 166,
+      "reputation_change_quarter": 166,
+      "reputation_change_month": 106,
+      "reputation_change_week": 0,
+      "reputation_change_day": 0,
+      "reputation": 167,
+      "creation_date": 1714911478,
+      "user_type": "registered",
+      "user_id": 24878300,
+      "website_url": "",
+      "link": "https://stackoverflow.com/users/24878300/gs",
+      "profile_image": "https://www.gravatar.com/avatar/933b6fcf1cb35ce99f8b92421f34b4bd?s=256&d=identicon&r=PG&f=y&so-version=2",
+      "display_name": "GS_"
+    },
+    {
+      "badge_counts": { "bronze": 8, "silver": 0, "gold": 0 },
+      "account_id": 32472274,
+      "is_employee": false,
+      "last_modified_date": 1718095808,
+      "last_access_date": 1718139612,
+      "reputation_change_year": 166,
+      "reputation_change_quarter": 166,
+      "reputation_change_month": 66,
+      "reputation_change_week": 0,
+      "reputation_change_day": 0,
+      "reputation": 167,
+      "creation_date": 1716552513,
+      "user_type": "registered",
+      "user_id": 25227820,
+      "website_url": "",
+      "link": "https://stackoverflow.com/users/25227820/godot",
+      "profile_image": "https://i.sstatic.net/1aDA7B3L.png?s=256",
+      "display_name": "Godot"
+    }
+  ],
+  "has_more": true,
+  "backoff": 10,
+  "quota_max": 300,
+  "quota_remaining": 290
+}
